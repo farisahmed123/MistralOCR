@@ -62,7 +62,7 @@
       "typeVersion": 4.2,
       "credentials": {
         "httpHeaderAuth": {
-          "id": "XD0Y34GpTuc1HmWZ",
+          "id": "****************",
           "name": "Mistral OCR"
         }
       }
@@ -88,7 +88,7 @@
             },
             {
               "name": "Authorization",
-              "value": "Bearer 4IRMt6rE88BrjXWHSdeDr61HvhgmpSMI"
+              "value": "Bearer **********************"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 4IRMt6rE88BrjXWHSdeDr61HvhgmpSMI"
+              "value": "Bearer ******************"
             }
           ]
         },
@@ -221,7 +221,7 @@
       "name": "OpenRouter Chat Model",
       "credentials": {
         "openRouterApi": {
-          "id": "DbQai3RlWByQLEfW",
+          "id": "****************",
           "name": "OpenRouter account 7"
         }
       }
@@ -235,7 +235,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 4IRMt6rE88BrjXWHSdeDr61HvhgmpSMI"
+              "value": "Bearer *********************"
             }
           ]
         },
