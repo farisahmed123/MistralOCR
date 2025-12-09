@@ -1,0 +1,5 @@
+Patient Name: Armando Cegna
+Age: 29
+Gender: Male
+Medicine: Amoximlin 100mg
+Dosage: 1 cap 3 times a day
